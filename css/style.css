@@ -35,3 +35,6 @@
 
 /* Termos e condições */
 @import url(./termos/termos.css);
+
+/* Orçamento */
+@import url(../orcamento/orcamento.css);
