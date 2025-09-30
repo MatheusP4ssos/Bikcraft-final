@@ -50,7 +50,7 @@ Uso de variáveis CSS (--cor-\*) para facilitar manutenção de cores
 
 ![Demonstração geral](./demo/home.gif)
 
-### geral
+### 📊 Navegação
 
 ![Demonstração geral](./demo/geral.gif)
 
