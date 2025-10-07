@@ -10,6 +10,7 @@ O objetivo é criar um site para venda de bicicletas, aplicando boas práticas d
 - HTML5
 - CSS3 (Flexbox, Grid, responsividade)
 - Boas práticas de estruturação semântica, acessibilidade mínima e design responsivo
+- JavaScript
 
 ---
 
